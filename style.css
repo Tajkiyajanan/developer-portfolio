@@ -63,6 +63,7 @@ span{
     border-left: 7px solid;
     border-image: linear-gradient(salmon, purple);
     border-image-slice: 1;
+    margin-left: 10%;
 }
 footer p{
     text-align: center;
